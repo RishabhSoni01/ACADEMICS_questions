@@ -5,7 +5,7 @@ using namespace std;
 class Time
 {
   public :
-    int hh;
+    int h;
     int mm;
     int ss;
 
